@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @markotok
-- 👀 I’m interested in Android Devloper
-- 🌱 I’m currently learning Android Devloper
+- 👋 Hi, I’m Markotok
+- 👀 I’m interested in Android Devloper and Web Developer
+- 🌱 I’m currently learning Android Devloper, laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
